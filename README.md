@@ -45,4 +45,4 @@ In healthcare, improving efficiency while maintaining high-quality patient care 
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/yourusername/HealthStat-Hospital-Efficiency-Analysis.git](https://github.com/engr-abd-rehman/Healthcare-Data-Analysis-with-Power-BI)
+   git clone https://github.com/engr-abd-rehman/Healthcare-Data-Analysis-with-Power-BI
