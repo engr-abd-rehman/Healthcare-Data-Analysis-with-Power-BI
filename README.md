@@ -3,6 +3,11 @@
 ## Overview
 
 In healthcare, improving efficiency while maintaining high-quality patient care is a top priority. This Power BI case study explores a real-world dataset to uncover hospital efficiency insights for a fictional consulting company called HealthStat. The project aims to analyze attributes impacting patient length of stay (LOS) and costs, identifying factors contributing to differences among hospitals. The insights generated will help the HealthStat team make informed decisions to enhance hospital performance.
+![1](https://github.com/user-attachments/assets/e83e5463-b9ca-4208-855e-0decad1a22b3)
+![2](https://github.com/user-attachments/assets/be3d3890-3a06-48aa-85b5-d5c3ac8fa0c7)
+![3](https://github.com/user-attachments/assets/f1b550e8-eb12-44c6-87c6-5b32ad586a28)
+![4](https://github.com/user-attachments/assets/b9450fd5-8ca5-4b5f-b65e-4b790863ffa2)
+
 
 ## Objectives
 
